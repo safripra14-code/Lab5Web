@@ -49,7 +49,7 @@ document.getElementById("out1").textContent = "Hello World ditampilkan di halama
 console.log("Hello World");
 ```
 
-![Gambar L1 — Teks pada halaman berubah dan "Hello World" tampil di Console](screenshot`2/Gambar.png)
+![Gambar L1 — Teks pada halaman berubah dan "Hello World" tampil di Console](Screenshot2/Gambar.png)
 
 ### Latihan 2 — Alert dan Prompt (Sapaan)
 
@@ -64,8 +64,8 @@ if (namaPengguna && namaPengguna.trim() !== "") {
 }
 ```
 
-![Gambar L2 — Masukan nama "Safri" menghasilkan sapaan](screenshot2/Gambar1.png)
-![Gambar L2 — Masukan nama "Safri" menghasilkan sapaan](screenshot2/Gambar2.png)
+![Gambar L2 — Masukan nama "Safri" menghasilkan sapaan](Screenshot2/Gambar1.png)
+![Gambar L2 — Masukan nama "Safri" menghasilkan sapaan](Screenshot2/Gambar2.png)
 
 ### Latihan 3 — Function dan Operasi Aritmetika
 
@@ -82,7 +82,7 @@ function operasiDasar(a, b) {
 operasiDasar(9, 4);
 ```
 
-![Gambar L3 — a=9, b=4: 13, 5, 36, 2.25, dan sisa bagi 1](screenshot2/Gambar3.png)
+![Gambar L3 — a=9, b=4: 13, 5, 36, 2.25, dan sisa bagi 1](Screenshot2/Gambar3.png)
 
 ### Latihan 4 — Seleksi Kondisi if–else
 
@@ -106,8 +106,8 @@ if (
 }
 ```
 
-![Gambar L4 — Nilai 76 → "Lulus"](screenshot2/Gambar4.png)
-![Gambar L4 — Nilai 76 → "Lulus"](screenshot2/Gambar5.png)
+![Gambar L4 — Nilai 76 → "Lulus"](Screenshot2/Gambar4.png)
+![Gambar L4 — Nilai 76 → "Lulus"](Screenshot2/Gambar5.png)
 
 ### Latihan 5 — Seleksi Kondisi switch
 
@@ -124,8 +124,8 @@ switch (inputPilihan) {
 }
 ```
 
-![Gambar L5 — Angka 3 → "Bilangan tiga"](screenshot2/Gambar6.png)
-![Gambar L5 — Angka 3 → "Bilangan tiga"](screenshot2/Gambar7.png)
+![Gambar L5 — Angka 3 → "Bilangan tiga"](Screenshot2/Gambar6.png)
+![Gambar L5 — Angka 3 → "Bilangan tiga"](Screenshot2/Gambar7.png)
 
 ### Latihan 6 — Form Bilangan Genap / Ganjil
 
@@ -153,7 +153,7 @@ function cekBilangan() {
 }
 ```
 
-![Gambar L6 — Angka 8 → "Bilangan genap"](screenshot2/Gambar7.png)
+![Gambar L6 — Angka 8 → "Bilangan genap"](Screenshot2/Gambar7.png)
 
 ### Latihan 7 — Mengubah Warna Latar
 
@@ -171,7 +171,7 @@ function ubahWarnaLatar(warna) {
 }
 ```
 
-![Gambar L7 — Tombol "Latar Hijau" mengubah warna latar halaman](screenshot2/Gambar8.png)
+![Gambar L7 — Tombol "Latar Hijau" mengubah warna latar halaman](Screenshot2/Gambar8.png)
 
 ### Latihan 8 — DOM dan Checkbox Menu Makanan
 
@@ -199,7 +199,7 @@ function hitungTotal() {
 }
 ```
 
-![Gambar L8 — Ayam Goreng + Es Teh dicentang → Total Rp8.000](screenshot2/Gambar9.png)
+![Gambar L8 — Ayam Goreng + Es Teh dicentang → Total Rp8.000](Screenshot2/Gambar9.png)
 
 ---
 
@@ -227,7 +227,7 @@ console.log("Predikat:", tentukanPredikat(akhir));
 console.log("Status:", akhir >= 60 ? "Lulus" : "Belum lulus");
 ```
 
-![Gambar MP — Tugas 85, UTS 78, UAS 88 → 84.10, Predikat B, Lulus](screenshot2/Gambar10.png)
+![Gambar MP — Tugas 85, UTS 78, UAS 88 → 84.10, Predikat B, Lulus](Screenshot2/Gambar10.png)
 
 ---
 
@@ -248,11 +248,11 @@ function operasiDasar(a, b) {
 operasiDasar(a, b);
 ```
 
-![Gambar Eksperimen 1](screenshot2/Gambar11.png)
+![Gambar Eksperimen 1](Screenshot2/Gambar11.png)
 
-![Gambar Eksperimen 1](screenshot2/Gambar12.png)
+![Gambar Eksperimen 1](Screenshot2/Gambar12.png)
 
-![Gambar Eksperimen 1](screenshot2/Gambar13.png)
+![Gambar Eksperimen 1](Screenshot2/Gambar13.png)
 
 **2. Buat perulangan untuk menampilkan tabel perkalian angka 7 dari 1 sampai 10.**
 
@@ -262,7 +262,7 @@ for (let i = 1; i <= 10; i++) {
 }
 ```
 
-![Gambar Eksperimen 2](screenshot2/Gambar14.png)
+![Gambar Eksperimen 2](Screenshot2/Gambar14.png)
 
 **3. Buat function `cekGenap(angka)` yang mengembalikan `true` jika angka genap.**
 
@@ -286,7 +286,7 @@ function cekInput() {
 }
 ```
 
-![Gambar Eksperimen 3](screenshot2/Gambar15.png)
+![Gambar Eksperimen 3](Screenshot2/Gambar15.png)
 
 **4. Ubah Latihan 8 dengan menambah minimal dua pilihan menu dan harga.**
 
@@ -306,7 +306,7 @@ function hitungTotal2() {
 }
 ```
 
-![Gambar Eksperimen 4](screenshot2/Gambar16.png)
+![Gambar Eksperimen 4](Screenshot2/Gambar16.png)
 
 **5. Gunakan tombol untuk menyembunyikan atau menampilkan elemen HTML.**
 
@@ -324,8 +324,8 @@ function toggleMenu() {
 }
 ```
 
-![Gambar Eksperimen 5](screenshot2/Gambar17.png)
-![Gambar Eksperimen 5](screenshot2/Gambar18.png)
+![Gambar Eksperimen 5](Screenshot2/Gambar17.png)
+![Gambar Eksperimen 5](Screenshot2/Gambar18.png)
 
 ---
 
